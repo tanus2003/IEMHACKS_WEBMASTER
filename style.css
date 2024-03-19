@@ -1,0 +1,36 @@
+.headerimage{
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.headerimage .logo{
+    margin-top: -30px;
+    margin-left: -20px;
+}
+.headerimage .heading{
+    margin-left: 420px;
+}
+.headerimage .profile{
+    margin-left: 460px;
+}
+.links ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Acme';
+    color: rgb(11, 135, 28);
+}
+.links ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 8px;
+}
+.links ul{
+    margin-left: 900px;
+}
+.bgimg img{
+    margin-top: 20px;
+    margin-left: 320px;
+}
+div.main{
+    width: 1000px;
+}
